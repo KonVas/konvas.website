@@ -1,3 +1,0 @@
-* TestPage
-** This is a test
-How does it look I wonder.
